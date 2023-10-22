@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋, my name is Sathindu Perera
+#### I am a Undergraduate Studying at IIT 
+I am an avid learner of front-end development and its tools.
 
-<!--
-**SathinduPerera/SathinduPerera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: REACT / Node JS / JS / HTML / CSS / Java / Python 
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on on a small todo list project of mine ;P 
+- 🌱 I’m currently learning Git 
+- 👯 I’m looking to collaborate on Web App Development  
+- 📫 How to reach me: sathindu.geethika@gmail.com 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SathinduPerera)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Sathindu Perera/)  
+
+
