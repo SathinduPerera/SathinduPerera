@@ -14,6 +14,7 @@ Skills: REACT / Node JS / JS / HTML / CSS / Java / Python
 
 <ruler/>
 
+Skills
 
 
 
