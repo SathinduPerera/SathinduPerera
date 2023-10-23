@@ -12,7 +12,7 @@ I am an avid learner of front-end development and its tools.
 
 ### Skills
 
-<img src='react.svg' alt='github' height='40'>&nbsp;&nbsp<img src='node-js.svg' alt='github' height='40'>&nbsp;<img src='javascript.svg' alt='github' height='40'>&nbsp;<img src='file-type-html.svg' alt='github' height='40'>  &nbsp;<img src='file-type-css.svg' alt='github' height='40'>&nbsp;<img src='java-original.svg' alt='github' height='40'>&nbsp;<img src='python.svg' alt='github' height='40'>
+<img src='react.svg' alt='github' height='40'>&nbsp;&nbsp;<img src='node-js.svg' alt='github' height='40'>&nbsp;<img src='javascript.svg' alt='github' height='40'>&nbsp;<img src='file-type-html.svg' alt='github' height='40'>  &nbsp;<img src='file-type-css.svg' alt='github' height='40'>&nbsp;<img src='java-original.svg' alt='github' height='40'>&nbsp;<img src='python.svg' alt='github' height='40'>
 
 
 
