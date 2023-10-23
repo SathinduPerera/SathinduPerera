@@ -2,8 +2,6 @@
 #### I am a Undergraduate Studying at IIT 
 I am an avid learner of front-end development and its tools.
 
-Skills: REACT / Node JS / JS / HTML / CSS / Java / Python 
-
 - 🔭 I’m currently working on on a small todo list project of mine ;P 
 - 🌱 I’m currently learning Git 
 - 👯 I’m looking to collaborate on Web App Development  
@@ -14,7 +12,7 @@ Skills: REACT / Node JS / JS / HTML / CSS / Java / Python
 
 ### Skills
 
-<img src='react.svg' alt='github' height='40'>  <img src='node-js.svg' alt='github' height='40'>  <img src='javascript.svg' alt='github' height='40'>  <img src='file-type-html.svg' alt='github' height='40'>  <img src='file-type-css.svg' alt='github' height='40'>  <img src='java-original.svg' alt='github' height='40'>  <img src='python.svg' alt='github' height='40'>
+<img src='react.svg' alt='github' height='40'>&npsp<img src='node-js.svg' alt='github' height='40'>  <img src='javascript.svg' alt='github' height='40'>  <img src='file-type-html.svg' alt='github' height='40'>  <img src='file-type-css.svg' alt='github' height='40'>  <img src='java-original.svg' alt='github' height='40'>  <img src='python.svg' alt='github' height='40'>
 
 
 
