@@ -14,7 +14,7 @@ Skills: REACT / Node JS / JS / HTML / CSS / Java / Python
 
 ### Skills
 
-[<img src='[https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg](https://cdn.worldvectorlogo.com/logos/react-1.svg)https://cdn.worldvectorlogo.com/logos/react-1.svg' alt='github' height='40'>]
+[<img src='https://cdn.worldvectorlogo.com/logos/react-1.svg' alt='github' height='40'>]
 
 
 
