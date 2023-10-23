@@ -14,7 +14,7 @@ Skills: REACT / Node JS / JS / HTML / CSS / Java / Python
 
 ### Skills
 
-<img src='https://cdn.worldvectorlogo.com/logos/react-1.svg' alt='github' height='40'>
+<img src='https://cdn.worldvectorlogo.com/logos/react-1.svg' alt='github' height='40'>  <img src='https://cdn.worldvectorlogo.com/logos/react-1.svg' alt='github' height='40'>
 
 
 
