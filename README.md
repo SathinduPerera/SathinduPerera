@@ -2,7 +2,7 @@
 #### I am a Undergraduate Studying at IIT 
 I am an avid learner of front-end development and its tools.
 
-- 🔭 I’m currently working on on a small todo list project of mine ;P 
+- 🔭 I’m currently working on a Task Management Web App I built
 - 🌱 I’m currently learning Git 
 - 👯 I’m looking to collaborate on Web App Development  
 - 📫 How to reach me: sathindu.geethika@gmail.com 
