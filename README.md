@@ -7,8 +7,9 @@ I am an avid learner of front-end development and its tools.
 - 👯 I’m looking to collaborate on Web App Development  
 - 📫 How to reach me: sathindu.geethika@gmail.com 
 
+### Profiles
 
-[<img src='github.svg' alt='github' height='40'>](https://github.com/SathinduPerera)  [<img src='linkedin-original.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sathindu-perera-ba9701251/)  
+[<img src='github(1).svg' alt='github' height='40'>](https://github.com/SathinduPerera)  [<img src='linkedin-original.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sathindu-perera-ba9701251/)  
 
 ### Skills
 
