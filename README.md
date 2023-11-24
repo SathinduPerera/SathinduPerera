@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Sathindu Perera
-#### I am a Undergraduate Studying at IIT 
+#### I am an Undergraduate Studying at IIT 
 I am an avid learner of front-end development and its tools.
 
 - 🔭 I’m currently working on a Task Management Web App I built
