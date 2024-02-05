@@ -1,9 +1,9 @@
 ### Hi there 👋, my name is Sathindu Perera
-#### I am an Undergraduate Studying at IIT 
+#### I am a Software Engineering Undergraduate Studying at IIT 
 I am an avid learner of front-end development and its tools.
 
-- 🔭 I’m currently working on a Task Management Web App I built
-- 🌱 I’m currently learning Git 
+- 🔭 I’m currently working on a Group Project called AIducator. 
+- 🌱 I’m currently learning Three.JS
 - 👯 I’m looking to collaborate on Web App Development  
 - 📫 How to reach me: sathindu.geethika@gmail.com 
 
