@@ -3,7 +3,6 @@
 I am an avid learner of front-end development and its tools.
 
 - 🔭 I’m currently working on a Group Project called AIducator. 
-- 🌱 I’m currently learning Three.JS
 - 👯 I’m looking to collaborate on Web App Development  
 - 📫 How to reach me: sathindu.geethika@gmail.com 
 
